@@ -6,7 +6,6 @@ export default defineNuxtConfig({
     plugins: {
       tailwindcss: {},
       autoprefixer: {},
-      
     },
   },
   modules: ["nuxt-icon"],
